@@ -44,3 +44,4 @@ p->display();
     return 0;
 }
 //Output : Display of derived
+//This is also an example of runtime polymorphism
